@@ -1,6 +1,6 @@
 # Dog-breed-multiclass-classification
 
-## Using TensorFlow to implement a multiclass classification model with dataset containing 120 different dogs' bread.
+## Using TensorFlow to implement a multiclass classification model with the dataset containing 120 different dog bread images.
 
 # Requirements
 
